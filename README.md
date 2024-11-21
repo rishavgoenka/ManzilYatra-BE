@@ -56,14 +56,25 @@
 * Report Module
 * Feedback Module
 
-<!-- ============================================  ER - DIAGRAM ======================================================  -->
+  <!-- ============================================  ER - Diagram =========================================+++==========  -->
 
 # ER Diagram
 
 The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
 <br>
 <br>
-![ER Diagram - DB Schema](https://github.com/raus376/OnlineTripManagementSystemApp/blob/addb16bf0cd504c3bd804e4cb9d4b7429055ac7a/DB%20Schema%20-%20ER%20Diagram.JPG)
+![ER Diagram]([https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/ER%20Diagram%20-%20Tour.png))
+<br>
+<br>
+
+<!-- ============================================  Data-Flow Diagram ===================================================  -->
+
+# ER Diagram
+
+The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
+<br>
+<br>
+![DFD - DB Schema]([https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/DB%20Schema%20-%20DFD.JPG))
 <br>
 <br>
 
