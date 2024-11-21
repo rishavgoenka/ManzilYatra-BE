@@ -63,7 +63,7 @@
 The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
 <br>
 <br>
-![ER Diagram]([https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/ER%20Diagram%20-%20Tour.png))
+![ER Diagram](https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/ER%20Diagram%20-%20Tour.png)
 <br>
 <br>
 
@@ -74,7 +74,7 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
 <br>
 <br>
-![DFD - DB Schema]([https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/DB%20Schema%20-%20DFD.JPG))
+![DFD - DB Schema](https://github.com/rishavgoenka/ManzilYatra-BE/blob/main/DB%20Schema%20-%20DFD.JPG)
 <br>
 <br>
 
